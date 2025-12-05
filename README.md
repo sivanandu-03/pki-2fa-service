@@ -41,7 +41,7 @@ A production-ready, containerized microservice that implements Two-Factor Authen
 1.  *Clone the Repository*
     bash
     git clone https://github.com/sivanandu-03/pki-2fa-service
-    cd docker-23P31A05C0
+    cd pki-2fa-service
     
 
 2.  *Verify Key Files*
